@@ -1,7 +1,7 @@
 # Python Lesson
 
 ## Autor
-Daniela Mayer
+Daniela B. Mayer
 
 ## Date
 2019-11-08
